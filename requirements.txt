@@ -1,2 +1,7 @@
-pip install -r requirements.txt
-streamlit run app.py
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+openpyxl
